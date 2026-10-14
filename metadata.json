@@ -1,0 +1,6 @@
+{
+  "name": "Judo Seddouk",
+  "description": "Application officielle de gestion et de pointage du dojo Judo Seddouk (adhérents, présences, cartes de sport, ceintures, séances et statistiques).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
